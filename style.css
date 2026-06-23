@@ -42,15 +42,15 @@ section {
 .project a {
     display: inline-block;
     margin-top: 10px;
-    text-decoration: none;
-    background: #333;
-    color: white;
     padding: 10px 15px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
     border-radius: 5px;
 }
 
 .project a:hover {
-    opacity: 0.8;
+    opacity: 0.85;
 }
 nav {
     text-align: center;
