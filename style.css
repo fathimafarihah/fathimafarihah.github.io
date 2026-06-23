@@ -32,3 +32,16 @@ section {
     margin-top: 15px;
     border-radius: 8px;
 }
+.project a {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    background: #333;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.project a:hover {
+    opacity: 0.8;
+}
